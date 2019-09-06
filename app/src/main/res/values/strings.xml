@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guia3Lab</string>
+    <string name="verLista">Ver Lista</string>
+    <string name="agregarNombre">Agregar Nombre</string>
+    <string name="misDatos">Mis Datos</string>
+
+</resources>
